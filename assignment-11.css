@@ -1,0 +1,344 @@
+body {
+  background-color: white;
+}
+
+/* OFFCANVAS NAVBAR */
+.navbar-nav a {
+  font-weight: bold;
+  color: black;
+  font-size: 16px;
+  font-family: ProximaNova, sans-serif;
+  line-height: 65px;
+  margin: 0px 20px 0px 20px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar-nav a:hover {
+  color: #715EE9;
+}
+
+.navbar-brand {
+  padding-left: 310px;
+}
+
+.navbar-brand img:hover {
+  color: black;
+}
+
+/* SHOWCASE ONE */
+.showcase-one-ride {
+  font-size: 76px;
+  font-family: LyftProUI, sans-serif;
+  font-weight: 600;
+}
+
+.showcase1-bt1 {
+  border-radius: 48px;
+  display: inline-flex;
+  min-height: 48px;
+  min-width: 120px;
+  position: relative;
+  padding: 0px 24px;
+  align-items: center;
+  background-color: #523be4;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 550;
+  color: white;
+}
+
+.showcase1-bt2 {
+  border-radius: 48px;
+  display: inline-flex;
+  min-height: 48px;
+  min-width: 120px;
+  position: relative;
+  padding: 0px 24px;
+  align-items: center;
+  background-color: white;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 550;
+  color: black;
+  border-color: rgba(0, 0, 0, 0.466);
+}
+
+.showcase1-bt1:hover {
+  background-color: #715EE9;
+}
+
+.showcase1-bt2:hover {
+  background-color: #FFFFFF;
+}
+
+/* SHOWCASE TWO */
+.showcase-two, .showcase-five, .showcase-seven {
+  background-color: #F4F4FA;
+}
+
+.showcase-two-reasons, .showcase-three-reasons {
+  margin-top: 30px;
+  font-weight: 700;
+}
+
+.showcase-two-details {
+  font-family: ProximaNova, sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.showcase2-bt1, .showcase3-btn1 {
+  border-radius: 48px;
+  display: inline-flex;
+  min-height: 48px;
+  min-width: 120px;
+  position: relative;
+  padding: 0px 24px;
+  align-items: center;
+  background-color: #523be4;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 550;
+  color: white;
+  margin-right: 30px;
+}
+
+.showcase2-bt1:hover {
+  background-color: #715EE9;
+}
+
+.link {
+  text-decoration: none;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: black;
+}
+
+.link:hover {
+  color: black;
+  text-decoration:underline;
+}
+
+.quote-text {
+  font-family: ProximaNova, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  margin-top: 40px;
+}
+
+.carousel-btn {
+  border-radius: 48px;
+  border-color: rgba(0, 0, 0, 0.452);
+  margin: 5px;
+}
+
+.carousel-btn:hover {
+  border-color: rgba(0, 0, 0, 0.452);
+  background: #DCDCE6;
+}
+
+/* SHOWCASE THREE */
+.showcase-three-ready {
+  font-family: LyftProUI, sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+}
+
+.showcase3-link {
+  color: black;
+}
+
+.showcase3-link:hover {
+  color: black;
+}
+
+.carousel-2-btn1 {
+  border-radius: 48px;
+  display: inline-flex;
+  min-height: 48px;
+  min-width: 120px;
+  position: relative;
+  padding: 0px 24px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.445);
+  font-family: ProximaNova, sans-serif;
+  font-weight: 550;
+  color: black;
+}
+
+.carousel-2-btn1:hover {
+  background-color: #E6E6EA;
+  border-color: rgba(0, 0, 0, 0.445);
+}
+
+.carousel-2-btn2 {
+  border-radius: 48px;
+  border-color: rgba(0, 0, 0, 0.452);
+  background-color: #523be4;
+  color: white;
+}
+
+.carousel-2-btn2:hover {
+  background-color: #715EE9;
+}
+
+.availability {
+  margin: -90px 0px 50px 250px;
+  font-size: 12px;
+  color: grey;
+}
+
+/* SHOWCASE FOUR */
+.showcase-four {
+  background-color: #DCDCFF;
+}
+
+.showcase-four-slogan {
+  font-family: LyftProUI, sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 32px;
+  margin-top: 20px;
+  margin-left: 45px;
+}
+
+.showcase-four-btn {
+  border-radius: 48px;
+  display: inline-flex;
+  min-height: 48px;
+  min-width: 120px;
+  position: relative;
+  padding: 0px 24px;
+  align-items: center;
+  background-color: white;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 550;
+  color: black;
+  margin-left: 55px;
+}
+
+.showcase-four-btn:hover {
+  background-color: grey;
+}
+
+.form {
+  width: 315px;
+  height: 56px;
+  border-color: rgba(0, 0, 0, 0.486);
+}
+
+/* SHOWCASE FIVE */
+.showcase-five-text {
+  margin-top: 25px;
+}
+
+.safety {
+  font-size: 15px;
+  line-height: 20px;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 700;
+}
+
+.safety-2 {
+  font-size: 36px;
+  line-height: 44px;
+  font-family: LyftProUI, sans-serif;
+  font-weight: 600;
+}
+
+.safety-3 {
+  max-width: 70%;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 400;
+}
+
+/* SHOWCASE SIX */
+.showcase-six-text {
+  margin-left: 130px;
+}
+
+.showcase-six-title {
+  font-family: LyftProUI, sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 32px;
+}
+
+.showcase-six-quote {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 400;
+}
+
+/* SHOWCASE SEVEN */
+.showcase-seven-btn {
+  border-radius: 48px;
+  display: inline-flex;
+  min-height: 48px;
+  min-width: 120px;
+  position: relative;
+  padding: 0px 24px;
+  align-items: center;
+  background-color: white;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 550;
+  color: black;
+}
+
+.showcase-seven-btn:hover {
+  background: grey;
+}
+
+.showcase-seven-heading {
+  font-size: 36px;
+  line-height: 44px;
+  color: rgb(0, 0, 0);
+  font-family: LyftProUI, sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.showcase-seven-quote {
+  font-size: 16px;
+  line-height: 22px;
+  color: rgb(0, 0, 0);
+  font-family: ProximaNova, sans-serif;
+  font-weight: 400;
+  max-width: 60%;
+  margin-left: 250px;
+}
+
+.sponsors {
+  margin-top: 100px;
+}
+
+.carousel-3-btn2 {
+  border-radius: 48px;
+  border-color: rgba(0, 0, 0, 0.452);
+}
+
+/* SHOWCASE EIGHT */
+.showcase-eight {
+  background-color: #ECECF3;
+}
+
+.title {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 700;
+}
+
+.list {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: ProximaNova, sans-serif;
+  font-weight: 400;
+}
